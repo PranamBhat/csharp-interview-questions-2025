@@ -1,0 +1,14 @@
+# .NET / Visual Studio artifacts
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# OS
+.DS_Store
+
+# Logs
+*.log
