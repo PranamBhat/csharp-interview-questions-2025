@@ -2,19 +2,19 @@
 
 This file contains a curated list of C# / .NET interview questions.
 
-1. how token gets created jwt in c#
+1. How token gets created - JWT using C#
 2. async/await
 3. DI in .net core and .net
-4. Innumerable vs iqueriable
-5. Design patterns
-6. Cqrs pattern
-7. Secure api in C#
-8. How to increase performance in c#
-9. Horizontal and vertical scaling - api
-10. containerization in c# to support xml and json in web api
-11. Rest vs restful api
+4. IEnumerable vs IQueryable
+5. Design Patterns
+6. CQRS Pattern
+7. Secure API in C#
+8. How to increase performance in C#
+9. Horizontal and vertical scaling - API
+10. Containerization in C# to support XML and JSON in Web API
+11. REST vs Restful API
 12. POST vs PUT
-13. SOLID principles
+13. SOLID Principles
 14. LISKOV Principle
 15. What are value types and reference types in C#?
 16. Explain boxing and unboxing.
