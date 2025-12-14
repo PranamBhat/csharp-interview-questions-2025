@@ -73,3 +73,9 @@ This file contains a curated list of C# / .NET interview questions.
 69. What is access modifier?
 70. What is garbage collection in .NET?
 71. What is assembly in .NET?
+72. gRPC - Communication between microservices using a binary protocol instead of traditional REST APIs
+73. Message brokers such as RabbitMQ, Azure Service Bus, and Kafka - Communication between microservices
+74. Caching - MemoryCache and HybridCache (.NET 9)
+75. Minimize LINQ Overhead
+76. Span<T> and Memory<T>
+77. What are value tasks in C#?
