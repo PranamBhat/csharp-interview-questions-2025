@@ -11,7 +11,7 @@ This file contains a curated list of C# / .NET interview questions.
 7. Secure API in C#
 8. How to increase performance in C#
 9. Horizontal and vertical scaling - API
-10. Containerization in C# to support XML and JSON in Web API
+10. Content Negotiation in C# [to support XML and JSON in Web API]
 11. REST vs Restful API
 12. POST vs PUT
 13. SOLID Principles
